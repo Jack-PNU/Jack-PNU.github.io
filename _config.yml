@@ -84,8 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D student of Department of Industrial Engineering at Pusan National University"
   location         : "Busan, Korea"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : # "Pusan National University"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -309,3 +309,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+jekyll-theme-minimal
